@@ -12,12 +12,10 @@
 
   ###  Sobre Mí
   
-  Soy un desarrollador Junior apasionado por la lógica y la creación de soluciones eficientes. 
+  Desarrollador Full-Stack Junior con experiencia en desarrollo de aplicaciones web
   <br>
-  Me motiva **resolver problemas complejos** y entender cómo funcionan las cosas desde adentro. Disfruto transformando ideas en código funcional, cuidando tanto la estructura del Backend como la experiencia en el Frontend. Siempre estoy aprendiendo y buscando el siguiente desafío.
-
-  <br>
-
+ utilizando Python/Flask y JavaScript. Capacidad demostrada para implementar sistemas completos incluyendo integración con APIs externas, autenticación OAuth2, y arquitecturas basadas en microservicios con Docker. Enfocado en escribir código limpio, mantenible y siguiendo las mejores prácticas de seguridad. Apasionado por el aprendizaje continuo y la resolución de problemas complejos.
+   
   ---
 
   ###  Proyectos Destacados
