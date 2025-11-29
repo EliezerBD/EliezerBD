@@ -2,7 +2,7 @@
 
   # ¡Hola! Soy Eliezer Beltrán 👋
 
-  ### 💻 Full Stack Developer Junior
+  ### Full Stack Developer Junior
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Java+%7C+Python+%7C+JavaScript;Docker+%7C+Git+%7C+Tailwind" alt="Typing SVG" />
@@ -10,9 +10,9 @@
 
   ---
 
-  ### 👨‍💻 Sobre Mí
+  ###  Sobre Mí
   
-  Soy un desarrollador apasionado por la lógica y la creación de soluciones eficientes. 
+  Soy un desarrollador Junior apasionado por la lógica y la creación de soluciones eficientes. 
   <br>
   Me motiva **resolver problemas complejos** y entender cómo funcionan las cosas desde adentro. Disfruto transformando ideas en código funcional, cuidando tanto la estructura del Backend como la experiencia en el Frontend. Siempre estoy aprendiendo y buscando el siguiente desafío.
 
@@ -20,13 +20,13 @@
 
   ---
 
-  ### 🚀 Proyectos Destacados
+  ###  Proyectos Destacados
   
-  #### 🌐 App de Gestión de Facturas
+  ####  App de Gestión de Facturas
   
   > ⚠️ **Nota importante:** El servidor está alojado en el plan gratuito de **Render**. 
   > Por ello, la primera carga puede tardar unos **50 segundos** en "despertar". 
-  > ¡Gracias por tu paciencia! ☕
+  > ¡Gracias por tu paciencia! 
 
   <br>
   
@@ -42,13 +42,13 @@
 
   ---
 
-  ### 🛠️ Mi Stack Tecnológico
+  ###  Mi Stack Tecnológico
   <br>
   <img src="https://skillicons.dev/icons?i=java,js,py,html,css,tailwind,docker,git&theme=dark" />
   
   <br><br>
 
-  ### 📫 Contáctame
+  ###  Contáctame
   <a href="mailto:eliezerdba@gmail.com">
     <img src="https://img.shields.io/badge/eliezerdba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
