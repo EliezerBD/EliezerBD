@@ -10,15 +10,19 @@
 
   ---
 
-  ### 🛠️ Mi Stack Tecnológico
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,js,py,html,css,tailwind,docker,git&theme=dark" />
+  ### 👨‍💻 Sobre Mí
   
-  <br><br>
+  Soy un desarrollador apasionado por la lógica y la creación de soluciones eficientes. 
+  <br>
+  Me motiva **resolver problemas complejos** y entender cómo funcionan las cosas desde adentro. Disfruto transformando ideas en código funcional, cuidando tanto la estructura del Backend como la experiencia en el Frontend. Siempre estoy aprendiendo y buscando el siguiente desafío.
+
+  <br>
+
+  ---
 
   ### 🚀 Proyectos Destacados
   
-  #### 🌐 Nombre de tu Proyecto (Ej: Sistema de Gestión)
+  #### 🌐 App de Gestión de Facturas
   
   > ⚠️ **Nota importante:** El servidor está alojado en el plan gratuito de **Render**. 
   > Por ello, la primera carga puede tardar unos **50 segundos** en "despertar". 
@@ -36,7 +40,18 @@
 
   <br><br>
 
+  ---
+
+  ### 🛠️ Mi Stack Tecnológico
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,js,py,html,css,tailwind,docker,git&theme=dark" />
+  
+  <br><br>
+
   ### 📫 Contáctame
+  <a href="mailto:eliezerdba@gmail.com">
+    <img src="https://img.shields.io/badge/eliezerdba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <p>¡Listo para colaborar en nuevos proyectos!</p>
 
 </div>
