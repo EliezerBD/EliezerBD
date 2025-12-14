@@ -28,11 +28,11 @@
 
   <br>
   
-  <a href="https://facturas-app-v2-2.onrender.com/">
+  <a href="https://facturas-app-v2.onrender.com/">
     <img src="https://img.shields.io/badge/Ver_Proyecto_en_Vivo-2ea44f?style=for-the-badge&logo=render&logoColor=white" />
   </a>
 
-   <a href="https://github.com/EliezerBD/facturas-app-v2/tree/main/backend">
+   <a href="https://github.com/EliezerBD/facturas-app-v2">
     <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br><br>
