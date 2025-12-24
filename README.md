@@ -50,7 +50,26 @@
   <img src="https://img.shields.io/badge/🚀_Próximamente-Despliegue_en_Proceso-blueviolet?style=for-the-badge" />
 </a>
 
+  <br><br>
 
+  #### Secure Gen - Generador de Contraseñas
+  
+  <a href="https://secure-gen-ruby.vercel.app/">
+    <img src="https://img.shields.io/badge/Ver_Proyecto_en_Vivo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/EliezerBD/SecureGen">
+    <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br><br>
+
+  #### Mi Portafolio / CV
+  
+  <a href="https://eliezercv.vercel.app/">
+    <img src="https://img.shields.io/badge/Ver_Portafolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
+  </a>
+  <a href="https://github.com/EliezerBD/mi-cv-web">
+    <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <br><br>
 
   ---
